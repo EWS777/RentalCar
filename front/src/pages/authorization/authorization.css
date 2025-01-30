@@ -1,0 +1,27 @@
+﻿.container {
+    max-width: 50%;
+    margin: 50px auto;
+    padding: 20px;
+    background: #1a2735;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7);
+    border-radius: 20px;
+}
+
+.button-login {
+    background-color: #c0392b;
+    color: #0f3a7a;
+}
+
+.error-messages {
+    max-width: 50%;
+    margin: 20px auto;
+    background-color: #c0392b;
+    padding: 10px;
+    border-radius: 4px;
+    color: #000000;
+    box-shadow: 0 4px 8px rgba(192, 57, 43, 0.8);
+}
+
+.error {
+    margin: 0;
+}

@@ -398,5 +398,11 @@ FodyWeavers.xsd
 *.sln.iml
 
 
+front/node_modules/
+
+
 
 back/config.js
+back/node_modules/
+back/JWT.js
+back/package-lock.js
